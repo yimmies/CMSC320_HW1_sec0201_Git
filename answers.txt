@@ -9,3 +9,7 @@ Answer: [Data science could be applied to the medical field. Using information f
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: [Merge combines branches by creating a new commit while rebasing moves a branch's commits to the tip of another, creating a cleaner history.]
+
+Q4: What are you looking forward to this semester?
+
+Answer: [Learning SQL to use for work purposes.]
